@@ -12,7 +12,7 @@
 
 ## Benchmark
 
-[CGLB: Benchmark Tasks for Continual Graph Learning]([https://papers.nips.cc/paper_files/paper/2022/hash/548a41b9cac6f50dccf7e63e9e1b1b9b-Abstract-Datasets_and_Benchmarks.html)https://papers.nips.cc/paper_files/paper/2022/hash/548a41b9cac6f50dccf7e63e9e1b1b9b-Abstract-Datasets_and_Benchmarks.html]) ```Neurips 2022```
+[CGLB: Benchmark Tasks for Continual Graph Learning]([https://papers.nips.cc/paper_files/paper/2022/hash/548a41b9cac6f50dccf7e63e9e1b1b9b-Abstract-Datasets_and_Benchmarks.html]) ```Neurips 2022```
 
 
 
