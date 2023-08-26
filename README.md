@@ -11,7 +11,7 @@
 - [Graph-level](#Graph-level)
 
 ## Survey
-[Continual Graph Learning: A Survey](https://arxiv.org/abs/2301.12230) ```arXiv 2023```\
+[Continual Graph Learning: A Survey](https://arxiv.org/abs/2301.12230) ```arXiv 2023```
 
 
 ## Benchmark
