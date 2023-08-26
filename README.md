@@ -4,16 +4,19 @@
 - Please let us know if we miss any papers!
 
 ## Cotents
+- [Survey](#Survey)
 - [Benchmark](#Benchmark)
 - [Node-level](#Node-level)
 - [Edge-level](#Edge-level)
 - [Graph-level](#Graph-level)
 
+## Survey
+[Continual Graph Learning: A Survey](https://arxiv.org/abs/2301.12230) ```arXiv 2023```\
+
 
 ## Benchmark
 
 [On Making Graph Continual Learning Easy, Fool-Proof, and Extensive: a Benchmark Framework and Scenarios](https://openreview.net/forum?id=doShL95X0hd) ```ICLR 2023```\
-[Continual Graph Learning: A Survey](https://arxiv.org/abs/2301.12230) ```arXiv 2023```\
 [CGLB: Benchmark Tasks for Continual Graph Learning](https://papers.nips.cc/paper_files/paper/2022/hash/548a41b9cac6f50dccf7e63e9e1b1b9b-Abstract-Datasets_and_Benchmarks.html) ```Neurips 2022```\
 [BeGin: Extensive Benchmark Scenarios and An Easy-to-use Framework for Graph Continual Learning](https://arxiv.org/abs/2211.14568) ```arXiv 2022```
 
