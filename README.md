@@ -3,7 +3,7 @@
 - This Repo is being actively updated and maintained
 - Please let us know if we miss any papers!
 
-## Cotents
+## Contents
 - [Benchmark](#Benchmark)
 - [Node-level](#Node-level)
 - [Edge-level](#Edge-level)
