@@ -3,7 +3,7 @@
 - This Repo is being actively updated and maintained
 - Please let us know if we miss any papers!
 
-## Cotents
+## Contents
 - [Benchmark](#Benchmark)
 - [Node-level](#Node-level)
 - [Edge-level](#Edge-level)
@@ -12,6 +12,7 @@
 
 ## Benchmark
 
+[Graph Lifelong Learning: A Survey](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/abstract/document/10026151) ```IEEE Computational Intelligence Magazine 2023```\
 [On Making Graph Continual Learning Easy, Fool-Proof, and Extensive: a Benchmark Framework and Scenarios](https://openreview.net/forum?id=doShL95X0hd) ```ICLR 2023 REJECTED```\
 [Continual Graph Learning: A Survey](https://arxiv.org/abs/2301.12230) ```arXiv 2023```\
 [CGLB: Benchmark Tasks for Continual Graph Learning](https://papers.nips.cc/paper_files/paper/2022/hash/548a41b9cac6f50dccf7e63e9e1b1b9b-Abstract-Datasets_and_Benchmarks.html) ```Neurips 2022```\
@@ -37,6 +38,7 @@
 [Learning on streaming graphs with experience replay](https://dl.acm.org/doi/10.1145/3477314.3507113) ```SIGAPP 2022```\
 [DyGRAIN: An Incremental Learning Framework for Dynamic Graphs](https://www.ijcai.org/proceedings/2022/0438.pdf) ```IJCAI 2022```\
 [Weighted Heterogeneous Graph-Based Incremental Automatic Disease Diagnosis Method](https://link.springer.com/article/10.1007/s12204-022-2537-z) ```Journal of Shanghai Jiaotong University (Science) 2022```\
+[Graph Few-shot Class-incremental Learning](https://dl.acm.org/doi/10.1145/3488560.3498455) ```WSDM 2022```\
 [Overcoming Catastrophic Forgetting in Graph Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/17049/16856) ```AAAI 2021```\
 [Lifelong Learning of Graph Neural Networks for Open-World Node Classification](https://ieeexplore.ieee.org/abstract/document/9533412) ```IEEE IJCNN 2021```\
 [Continual Learning for Fake News Detection from Social Media](https://dl.acm.org/doi/abs/10.1007/978-3-030-86340-1_30) ```ICANN 2021```\
@@ -49,6 +51,7 @@
 [Graph Neural Networks with Continual Learning for Fake News Detection from Social Media](https://arxiv.org/abs/2007.03316) ```arXiv 2020```\
 [Disentangle-based Continual Graph Representation Learning](https://aclanthology.org/2020.emnlp-main.237/) ```EMNLP 2020```\
 [Streaming Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3397271.3401092) ```SIGIR 2020```
+[Disentangle-based Continual Graph Representation Learning](https://aclanthology.org/2020.emnlp-main.237/) ```EMNLP 2020```
 
 
 ## Edge-level
